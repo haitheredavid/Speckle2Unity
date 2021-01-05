@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Speckle2Unity", "Speckle2Unity\Speckle2Unity.csproj", "{0F6F12C8-1FB8-4152-9383-62CEC1D4DF60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "..\..\speckle-sharp\Core\Core\Core.csproj", "{8335D2D3-B065-4DF9-8032-C8B4086F4095}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Objects", "..\..\speckle-sharp\Objects\Objects\Objects.csproj", "{D6421D9C-47BC-4C3A-A654-C1940B11ED0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F6F12C8-1FB8-4152-9383-62CEC1D4DF60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F6F12C8-1FB8-4152-9383-62CEC1D4DF60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F6F12C8-1FB8-4152-9383-62CEC1D4DF60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F6F12C8-1FB8-4152-9383-62CEC1D4DF60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8335D2D3-B065-4DF9-8032-C8B4086F4095}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8335D2D3-B065-4DF9-8032-C8B4086F4095}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8335D2D3-B065-4DF9-8032-C8B4086F4095}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8335D2D3-B065-4DF9-8032-C8B4086F4095}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6421D9C-47BC-4C3A-A654-C1940B11ED0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6421D9C-47BC-4C3A-A654-C1940B11ED0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6421D9C-47BC-4C3A-A654-C1940B11ED0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6421D9C-47BC-4C3A-A654-C1940B11ED0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
